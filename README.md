@@ -20,8 +20,11 @@ This repository contains an **AI-powered chatbot workflow** created in **n8n**, 
    - **SerpAPI** for online searches.  
    - **Calculator** for mathematical queries.  
 3. The system **returns a relevant response** based on the query type.
-4. ![Image](https://github.com/user-attachments/assets/11d26c45-ae1a-4b97-84c0-82b24e3193f8)
-5. ![Image](https://github.com/user-attachments/assets/fd8cfcc8-39ae-4011-9065-6419b25f7527)
+   
+4.
+   ![Image](https://github.com/user-attachments/assets/0c75ae8c-6260-48dc-8d77-9bbaad68ccad)
+6. ![Image](https://github.com/user-attachments/assets/11d26c45-ae1a-4b97-84c0-82b24e3193f8)
+7. ![Image](https://github.com/user-attachments/assets/fd8cfcc8-39ae-4011-9065-6419b25f7527)
 
 
 ## 🛠️ Setup Instructions  
