@@ -19,7 +19,10 @@ This repository contains an **AI-powered chatbot workflow** created in **n8n**, 
    - **Simple Memory** to retain previous interactions.  
    - **SerpAPI** for online searches.  
    - **Calculator** for mathematical queries.  
-3. The system **returns a relevant response** based on the query type.  
+3. The system **returns a relevant response** based on the query type.
+4. ![Image](https://github.com/user-attachments/assets/11d26c45-ae1a-4b97-84c0-82b24e3193f8)
+5. ![Image](https://github.com/user-attachments/assets/fd8cfcc8-39ae-4011-9065-6419b25f7527)
+
 
 ## 🛠️ Setup Instructions  
 1. **Install n8n** (if not already installed)  
